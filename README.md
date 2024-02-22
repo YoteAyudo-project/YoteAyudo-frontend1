@@ -30,10 +30,10 @@
  - Mysql
  - Vitest
 
-**Other tools:** 
-- Figma (UI/UX)
-- Trello (Organizaton)
-- Discord (Comunication)
+**🪚 tools:** 
+- Figma (UI/UX) - [Figma](https://www.figma.com/file/lyfHr7N97QfODEt1cymtKt/yoteayudo?type=design&node-id=51%3A2884&mode=design&t=FbfNJfPooJNhyqYv-1)
+- Trello (Organizaton) - [Trello](https://trello.com/b/625W4Ssb/hackaton-yoteayudo)
+- Discord (Comunication) - [Discord](https://discord.gg/QTuvcDas)
 
 ## 📁 File Structure:
 
@@ -99,7 +99,7 @@ npm run dev
 ## 📝 Usage Instructions:
 
 1. Start the development server:
-2. Open your web browser and navigate to `http://localhost:3000` to access the YoteAyudo application.
+2. Open your web browser and navigate to `http://localhost:3000` to access the Doctor Who application.
 
 ## 🔎 Page Demo
 
@@ -119,8 +119,9 @@ npm run dev
 - David Altamirano - [Linkedin profile](https://www.linkedin.com/in/jdaltamiranodev/)
 - Gabriel Pastor - [Linkedin profile](https://www.linkedin.com/in/byron-gabriel-pastor-viteri/)
 - Elle - [Linkedin profile](https://www.linkedin.com/in/elle-sgromo-garc%C3%ADa-ab865b2a3/) 
-- Nuria -
-- Natalia -
+<!--Add your link 
+- Nuria - [Linkedin profile](https://www.linkedin.com/in//)
+- Natalia - [Linkedin profile](https://www.linkedin.com/in//) -->
 
 > [!TIP]
 >
@@ -137,6 +138,3 @@ npm run dev
 7. Thank you for your contribution!
 
 ---
-
-
-
