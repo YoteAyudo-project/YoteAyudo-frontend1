@@ -99,7 +99,7 @@ npm run dev
 ## 📝 Usage Instructions:
 
 1. Start the development server:
-2. Open your web browser and navigate to `http://localhost:3000` to access the Doctor Who application.
+2. Open your web browser and navigate to `http://localhost:3000` to access the YoteAyudo application.
 
 ## 🔎 Page Demo
 
