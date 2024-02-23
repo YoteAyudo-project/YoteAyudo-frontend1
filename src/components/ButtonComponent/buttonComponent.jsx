@@ -1,7 +1,10 @@
-export default function ButtonComponent({to, text}) {
+import React from 'react'; // Asegúrate de importar React si estás usando JSX
+// Importa otros módulos si es necesario
+
+export default function ButtonComponent() {
     return (
-        <button className="text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2" href={to}>
-            {text}
+        <button className="bg-black text-white p-3 m-3 rounded-md">
+            Busca la ayuda que necesites
         </button>
     )
 }

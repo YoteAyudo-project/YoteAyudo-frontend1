@@ -1,12 +1,15 @@
 
 import React from 'react';
+import Header from '../components/Headercomponent/Header.jsx';
 import MainComponent from '../components/MainComponent/MainComponent.jsx';
+import Footer from '../components/FooterComponent/Footer.jsx';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between pt-10">
-  
+    <main className="h-full mx-auto w-full">
+      <Header />
       < MainComponent/>
+      <Footer />
     </main>
   );
 }
